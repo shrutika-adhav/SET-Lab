@@ -1,1 +1,2 @@
 2022 is not a leap year
+Only years whose sum of digits is completely divisible by 4 are said to be leap years
